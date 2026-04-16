@@ -1,0 +1,12 @@
+CREATE PROCEDURE SOL_FORM_H_LAYOUT
+(
+	IN DocKey int
+)
+AS
+BEGIN
+SELECT
+T0.*
+FROM "@SOL_FORM_H" T0
+INNER JOIN "@SOL_FORM_D" T1 ON T0."DocEntry" = T1."DocEntry"
+WHERE T0."DocEntry" = :DocKey;
+END

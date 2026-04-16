@@ -1,0 +1,17 @@
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\bin\x86\Debug\SBOAddOn.exe
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\bin\x86\Debug\SBOAddOn.pdb
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.csproj.ResolveComReference.cache
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.Properties.Resources.resources
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.csproj.GenerateResource.Cache
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.exe
+D:\Soltius\Management\Standard\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.pdb
+D:\OneDrive - Metrodata Group\SAP Business One\Technical Refresh\Templates\DEVELOPMENT\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\Interop.SAPbobsCOM.dll
+D:\OneDrive - Metrodata Group\SAP Business One\Technical Refresh\Templates\DEVELOPMENT\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\Interop.SAPbouiCOM.dll
+D:\OneDrive - Metrodata Group\SAP Business One\Technical Refresh\Templates\DEVELOPMENT\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.csproj.ResolveComReference.cache
+D:\OneDrive - Metrodata Group\SAP Business One\Technical Refresh\Templates\DEVELOPMENT\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.exe
+D:\OneDrive - Metrodata Group\SAP Business One\Technical Refresh\Templates\DEVELOPMENT\AddOn\UI\C#\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.pdb
+D:\OneDrive - Metrodata Group\SAP Business One\Training SDK\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.csproj.ResolveComReference.cache
+D:\OneDrive - Metrodata Group\SAP Business One\Training SDK\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.exe
+D:\OneDrive - Metrodata Group\SAP Business One\Training SDK\SBOAddOn\SBOAddOn\obj\x86\Debug\SBOAddOn.pdb
